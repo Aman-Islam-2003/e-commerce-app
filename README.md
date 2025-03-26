@@ -38,6 +38,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application
 
 ## Features
 - Product listing from Fake Store API
-- Product detail pages
+- Product detail page on clicking of the card image
 - Shopping cart functionality
+  
 
