@@ -1,4 +1,4 @@
-# E-Commerce Store
+<!-- # E-Commerce Store
 
 ## Overview
 A simple e-commerce application built with Next.js, React, and Tailwind CSS. The app fetches products from the Fake Store API and provides basic shopping cart functionality.
@@ -41,4 +41,4 @@ Open [http://localhost:3000](http://localhost:3000) to view the application
 - Product detail page on clicking of the card image
 - Shopping cart functionality
   
-
+ -->
